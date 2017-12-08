@@ -1,6 +1,6 @@
 # melodyalignment
 
-> A Vue.js project
+I use it to find the optimum local alignment for two melodies (melody-strings). You can use it to compare two sequences of any format.
 
 ## Build Setup
 
