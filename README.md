@@ -1,3 +1,6 @@
+Disclaimer: The software was a quickly written prototype and is not up-to-date. 
+
+
 # melodyalignment
 
 I use it to find the optimum local alignment for two melodies (melody-strings). You can use it to compare two sequences of any format.
